@@ -37,3 +37,18 @@ The script will:
     Display the processed video in real time
 
 To exit early, press 'q' while the video is playing.
+
+# Screenshots
+![Screenshot 2025-03-20 213252](https://github.com/user-attachments/assets/3efe00b4-58ca-4ddf-bb8f-3f18b37978db)
+
+![Screenshot 2025-03-20 213332](https://github.com/user-attachments/assets/4f5bbd6f-bce7-440d-91bf-847cf7fb9673)
+
+# Contributors
+
+Amin Niaziardekani, Swapnaneel Sarkhel, Ajdin Buljko
+
+Supervisor: Prof. Dr. Kristian Rother
+
+
+
+
